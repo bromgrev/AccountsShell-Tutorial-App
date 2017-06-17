@@ -24,3 +24,16 @@ fourseven:scss
 fortawesome:fontawesome
 standard-minifier-css
 standard-minifier-js
+
+# now add these packages
+
+accounts-base
+accounts-password
+useraccounts:unstyled
+raix:handlebar-helpers
+
+aldeed:template-extension
+
+alanning:roles
+
+# end of line
